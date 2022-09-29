@@ -3,17 +3,17 @@
 body {
     cursor:crosshair;
     border-style: solid;
-    border-color:rgb(22, 145, 145);
+    border-color:rgb(242, 245, 245);
     border-width: 100px;
-    background-color: rgb(22, 145, 145);
-    color: black;
+    background-color: rgb(2, 7, 78);
+    color: rgb(238, 237, 237);
     }
 
 .blue-text {
         color: black;
     }
 h1 {text-align: center;
-    color: red;
+    color: rgb(173, 169, 169);
     font-family: monospace;
     font-size: 100px;
     }
@@ -30,7 +30,7 @@ p {
     }
     
 .thick-yellow-border {
-        border-color: gold;
+        border-color: rgb(104, 103, 99);
         border-width: 10px;
         border-style: solid;
         border-radius: 50%;
